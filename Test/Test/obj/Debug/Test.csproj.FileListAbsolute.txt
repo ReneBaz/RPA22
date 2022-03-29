@@ -5,3 +5,8 @@ D:\RPA22\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
 D:\RPA22\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
 D:\RPA22\Test\Test\obj\Debug\Test.exe
 D:\RPA22\Test\Test\obj\Debug\Test.pdb
+D:\RPA22\Test\Test\bin\Debug\EntityFramework.dll
+D:\RPA22\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\RPA22\Test\Test\bin\Debug\EntityFramework.xml
+D:\RPA22\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+D:\RPA22\Test\Test\obj\Debug\Test.csproj.CopyComplete
