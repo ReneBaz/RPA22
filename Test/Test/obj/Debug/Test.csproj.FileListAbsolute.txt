@@ -1,0 +1,7 @@
+D:\RPA22\Test\Test\bin\Debug\Test.exe.config
+D:\RPA22\Test\Test\bin\Debug\Test.exe
+D:\RPA22\Test\Test\bin\Debug\Test.pdb
+D:\RPA22\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\RPA22\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\RPA22\Test\Test\obj\Debug\Test.exe
+D:\RPA22\Test\Test\obj\Debug\Test.pdb
